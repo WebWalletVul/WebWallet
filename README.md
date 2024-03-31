@@ -7,4 +7,4 @@ Cryptocurrency wallets, acting as fundamental infrastructure to the blockchain e
 This repository includes the web_wallet_sample.xlsx file, which contains the sample data utilized in our research. The spreadsheet is organized into three columns: 'Wallet Name'(Name), 'Chrome Web Store ID'(Url), and 'Test Version'(Version). 'Wallet Name' refers to the name of the digital wallet, 'Chrome Web Store ID' represents the unique identifier for the wallet on the Chrome Web Store, and 'Test Version' indicates the specific version of the wallet that was examined in our study. For data availability, due to the sensitive nature of the research, detailed vulnerability data in browser-based wallets cannot be openly shared. Detailed vulnerability data is provided upon reasonable request for confidentiality and security reasons.
 
 If you use our data, please cite our work:
-TODO
+> Xia, P., Guo, Y., Lin, Z., Wu, J., Duan, P., He, N., Wang, K., Liu, T., Yue, Y., Xu, G., & Wang, H. (2024). WalletRadar: towards automating the detection of vulnerabilities in browser-based cryptocurrency wallets. Automated Software Engineering, 31(1), 32. https://doi.org/10.1007/s10515-024-00430-3
